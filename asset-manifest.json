@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/art_of_victory/static/css/main.6089a0d8.css",
+    "main.js": "/art_of_victory/static/js/main.38877fa1.js",
+    "static/js/787.a79810a2.chunk.js": "/art_of_victory/static/js/787.a79810a2.chunk.js",
+    "static/media/fon.jpg": "/art_of_victory/static/media/fon.001899fe5ad94a21559d.jpg",
+    "index.html": "/art_of_victory/index.html",
+    "main.6089a0d8.css.map": "/art_of_victory/static/css/main.6089a0d8.css.map",
+    "main.38877fa1.js.map": "/art_of_victory/static/js/main.38877fa1.js.map",
+    "787.a79810a2.chunk.js.map": "/art_of_victory/static/js/787.a79810a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6089a0d8.css",
+    "static/js/main.38877fa1.js"
+  ]
+}
